@@ -5,7 +5,7 @@
     text-align: center;
     text-decoration-style: solid;
 }
-.heading .button {
+.nav-link .button {
     background-color: orange;
     margin: 15px;
 }
@@ -17,15 +17,16 @@
     font-size: large;
     background-color: orange;
 }
-.column {
-    float: left;
-    width: 33.33%;
+.row {
+    flex-direction: row;
+    float:inline-start;
 }
-.div.container {
-    text-align: left;
-    display: inline-block solid black;
+.img {
+    width: 60vw;
+    height: 60vh;
+    place-content: initial;
+}
+.card {
+    flex-direction: row;
+}
 
-}
-.div .card {
-    margin: 15px;
-}
