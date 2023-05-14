@@ -22,6 +22,6 @@
     clear: both;
     display: table;
   }
-  h3 {
-    text-align:;
+  .text .h3 {
+    text-align:center;
   }
