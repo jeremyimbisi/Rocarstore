@@ -9,32 +9,4 @@
     background-color: orange;
     margin: 15px;
 }
-.body {
-    width: 50%;
-}
-
-.div.column {
-    float: left;
-    width: 35%;
-    margin-left: 25px;
-    font-size: large;
-    background-color: orange;
-}
-.container {
-    flex-direction: row;
-    float:inline-start;
-}
-.img {
-    width: 60vw;
-    height: 60vh;
-    place-content: initial;
-}
-.container .row  {
-    flex-direction: row;
-    width: 150%;
-    
-}
-.button {
-    text-decoration-color: black;
-}
 
