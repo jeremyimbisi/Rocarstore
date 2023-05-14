@@ -17,7 +17,7 @@
     font-size: large;
     background-color: orange;
 }
-.row {
+.container {
     flex-direction: row;
     float:inline-start;
 }
@@ -26,7 +26,9 @@
     height: 60vh;
     place-content: initial;
 }
-.card {
+.container .row  {
     flex-direction: row;
+    width: 150%;
+    
 }
 
