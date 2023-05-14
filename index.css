@@ -25,3 +25,8 @@
   .text .h3 {
     text-align:center;
   }
+  .end {
+    background-color: antiquewhite;
+    height: 20vh;
+    width: 100vw;
+  }
