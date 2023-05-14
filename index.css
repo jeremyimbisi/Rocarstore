@@ -24,3 +24,8 @@
     float: left;
     width: 33.33%;
 }
+.div.container {
+    text-align: left;
+    display: inline-block solid black;
+    
+}
