@@ -9,4 +9,12 @@
     background-color: orange;
     margin: 15px;
 }
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 40%;
+    padding: 5px;
+  }
 
