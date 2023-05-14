@@ -14,7 +14,11 @@
   }
   
   .column {
-    flex: 40%;
+    flex: 25%%;
     padding: 5px;
   }
-
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
