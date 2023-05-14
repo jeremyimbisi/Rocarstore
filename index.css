@@ -9,6 +9,9 @@
     background-color: orange;
     margin: 15px;
 }
+.body {
+    width: 50%;
+}
 
 .div.column {
     float: left;
