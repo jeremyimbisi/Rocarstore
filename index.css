@@ -13,21 +13,27 @@
     display: flex;
   }
   
-  .column {
+.column {
     flex: 25%%;
     padding: 5px;
-  }
-  .row::after {
+}
+.row::after {
     content: "";
     clear: both;
     display: table;
-  }
-  .text .h3 {
+}
+.text .h3 {
     text-align:center;
-  }
-  .end {
+}
+.end {
     background-color: antiquewhite;
     height: 20vh;
     width: 100vw;
     
-  }
+}
+.products .li{
+    float: left;
+}
+.About .li{
+    float: none;
+}
