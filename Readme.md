@@ -9,11 +9,26 @@ This a car selling business site that provides customers with photos and descrip
 
 ## Project set-up & instructions
 ```
-git clone https://github.com?
-
-
-
-## licence
+git clone https://github.com/jeremyimbisi/Rocarstore.git
+git init
+git add<filename>
+git commit -m "initial commit"
+git push origin master
+```
+## Technologies used
+HTML
+Css
+Git
+Vscode
+## Link to live site
+https://jeremyimbisi.github.io/Rocarstore/
+## My Project Design
+<img width="1440" alt="Landing-page" src="https://github.com/jeremyimbisi/Rocarstore/assets/129991001/fed0826d-4972-4896-8ac0-de7e199a6e4c">
+## Known Bugs
+There are no known bugs, incase of any please raise an issue
+## Support and Contacts
+You can reach me on +254703883049
+## License
 
  MIT License
 
